@@ -1,0 +1,12 @@
+{
+  "router_ip": "192.168.1.1",
+  "login_url": "http://{router_ip}/",
+  "start_page_url": "http://{router_ip}/menu.gch",
+  "manage_url": "http://{router_ip}/getpage.gch?pid=1002&nextpage=manager_user_dev_conf_t.gch",
+  "username": "user",
+  "password": "",
+  "wifi_list": [
+     ],
+  "auto_interval": 24,
+  "interval_unit": "时"
+}
